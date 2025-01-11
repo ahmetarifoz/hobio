@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# VSCode settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Alembic migrations cache
+migrations/
+
+# Logs
+*.log
+
+# Byte-compiled files
+*.pyc
